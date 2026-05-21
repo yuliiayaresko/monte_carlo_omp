@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="monte_carlo_omp/monte_carlo_omp.vcxproj" Id="da31fd61-c338-4d92-abfc-4cc78ed1a1f4" />
+</Solution>
